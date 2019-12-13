@@ -8,23 +8,18 @@ Quando precisar de ajuda, entre em contato com outras pessoas para vocês aprend
 Cada pessoa vai criar um repositório público no seu perfil do Github chamado 'desafios-cf-[seunome]' para ficar mais facil identificar cada repositório depois.
 Para cada um, crie uma pasta com o número do desafio. Os arquivos que são a sua solução serão colocados dentro dela, assim:
 
-
+```sh
 desafio-cf-livia
 
    |--- 0
-   
         |--- index.html
-        
         |--- index.css
-        
    |--- 1
-   
         |--- arquivo1
-        
         |--- arquivo2
         
  ...
-
+```
 
 Se precisar de ajuda com o Git e a estrutura de pastas, pode chamar a Ana Costa, Gui Passos, a Lívia ou o Jean.
 
