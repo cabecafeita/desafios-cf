@@ -1,6 +1,6 @@
 No primeiro exercício vamos escrever nosso nome centralizado na tela. Parece bobo, mas um dos maiores desafios do CSS é centralizar os elementos! O objetivo final é construir uma página assim:
 
-![img-desafio1.png]
+![Imagem de resultado do primeiro desafio](img-desafio1.png)
 
 
 Para isso,
