@@ -10,12 +10,19 @@ Para cada um, crie uma pasta com o número do desafio. Os arquivos que são a su
 
 
 desafio-cf-livia
+
    |--- 0
+   
         |--- index.html
+        
         |--- index.css
+        
    |--- 1
+   
         |--- arquivo1
+        
         |--- arquivo2
+        
  ...
 
 
