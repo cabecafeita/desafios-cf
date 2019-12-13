@@ -6,7 +6,9 @@ Existe uma maneira de construir layouts mais flexíveis, conhecido como modelo F
 
 
 [CSS-Tricks, A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
 [Origamid, Flex container](https://origamid.com/projetos/flexbox-guia-completo/)
+
 [Chief of Design, Flexbox CSS](https://www.chiefofdesign.com.br/css-flexbox/)
 
 
